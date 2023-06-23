@@ -1,0 +1,46 @@
+ 1
+ ----------------------------
+ WHATS APP
+ THUNDER BIRD
+ 
+0xffff8800d6463800 thunderbird-bin      2401            2175            1000            1000   0x00000000d659d000 2023-02-25 22:36:24 UTC+0000
+0xffff8800d6464600 whatsapp-for-li      2406            2175            1000            1000   0x0000000119db4000 2023-02-25 22:36:24 UTC+0000
+
+volatility - komanda - sudo python2 vol.py --plugins=./volatility/plugins -f /home/kali/Documents/Forenzicke_slike/Pavle_Pandurovic/FS_operativna_memorija/paja_ram.raw --profile=LinuxLinux_4_4_0-142-genericx64 linux_pslist >> /home/kali/LDF/e226/v2/drugi.txt
+Volatility Foundation Volatility Framework 2.6
+
+
+2
+-----------------------------
+steghide - za sakrivanje podataka 
+crypt setup - za kriptovanje
+ccrypt - za enkripciju
+crypthome
+luks
+
+volatility - komanda - sudo python2 vol.py --plugins=./volatility/plugins -f /home/kali/Documents/Forenzicke_slike/Pavle_Pandurovic/FS_operativna_memorija/paja_ram.raw --profile=LinuxLinux_4_4_0-142-genericx64 linux_bash  >> /home/kali/LDF/e226/v2/drugi.txt
+Volatility Foundation Volatility Framework 2.6
+
+
+3
+-----------------------------
+u fajlu su
+
+findaes - komanda -
+
+sudo ./findaes /home/kali/Documents/Forenzicke_slike/Pavle_Pandurovic/FS_operativna_memorija/paja_ram.raw >> /home/kali/LDF/e226/v2/treci.txt
+
+4
+-----------------------------
+
+Da dobijem sliku /home/kali/Documents/Forenzicke_slike/Dusanka_Svilarevic/FS_operativna_memorija/duda_ram.mem
+
+sudo python2 vol.py --plugins=./volatility/plugins -f /home/kali/Documents/Forenzicke_slike/Dusanka_Svilarevic/FS_operativna_memorija/duda_ram.raw --profile=WinXPSP1x64 linux_pslist >> /home/kali/LDF/e226/v2/cetvrti.txt
+
+SVE VELIKIM SLOVIMA JE SUMJNIVO
+
+5
+-----------------------------
+Item: fklg__password_123.zip
+adresa.txt
+tekst.txt

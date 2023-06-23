@@ -1,0 +1,26 @@
+Offset(V)          Name                    PID   PPID   Thds     Hnds   Sess  Wow64 Start                          Exit                          
+------------------ -------------------- ------ ------ ------ -------- ------ ------ ------------------------------ ------------------------------
+0xfffffadfce8d9c20 System                    4      0     61      402 ------      0                                                              
+0xfffffadfcdfe4040 smss.exe                548      4      3       18 ------      0 2023-02-26 00:02:33 UTC+0000                                 
+0xfffffadfce0e3040 csrss.exe               604    548     11      441      0      0 2023-02-26 00:02:33 UTC+0000                                 
+0xfffffadfce0dd040 winlogon.exe            628    548     27      599      0      0 2023-02-26 00:02:33 UTC+0000                                 
+0xfffffadfce0e9040 services.exe            672    628     17      287      0      0 2023-02-26 00:02:33 UTC+0000                                 
+0xfffffadfce0e8040 lsass.exe               700    628     28      495      0      0 2023-02-26 00:02:33 UTC+0000                                 
+0xfffffadfce0aa440 VBoxService.exe         876    672      9      131      0      0 2023-02-26 00:02:34 UTC+0000                               
+0xfffffadfce3a98d0 svchost.exe             944    672      7       83      0      0 2023-02-26 00:02:34 UTC+0000                                 
+0xfffffadfce0e1040 svchost.exe             120    672     10      245      0      0 2023-02-26 00:02:34 UTC+0000                                 
+0xfffffadfce284040 svchost.exe             184    672     95     1365      0      0 2023-02-26 00:02:34 UTC+0000                                 
+0xfffffadfcdf12040 svchost.exe             264    672     11      138      0      0 2023-02-26 00:02:34 UTC+0000                                 
+0xfffffadfce04a640 svchost.exe             376    672     24      281      0      0 2023-02-26 00:02:34 UTC+0000                                 
+0xfffffadfce0e1c20 spoolsv.exe             580    672     15      122      0      0 2023-02-26 00:02:34 UTC+0000                                 
+0xfffffadfce060780 explorer.exe           1552   1488     13      323      0      0 2023-02-26 00:02:43 UTC+0000   **************************                              
+0xfffffadfce209b10 svchost.exe            1784    672      2       56      0      0 2023-02-26 00:02:43 UTC+0000                                 
+0xfffffadfce2bb8d0 IPROSetMonitor.        1856    672      2       42      0      0 2023-02-26 00:02:43 UTC+0000                             
+0xfffffadfce4a0c20 VBoxTray.exe           1864   1552     12      112      0      0 2023-02-26 00:02:43 UTC+0000                                 
+0xfffffadfce0f7a90 msmsgs.exe             1908   1552      3      147      0      1 2023-02-26 00:02:43 UTC+0000                                 
+0xfffffadfce11b8b0 svchost.exe            2024    672      7       93      0      0 2023-02-26 00:02:43 UTC+0000                                 
+0xfffffadfce120670 wmiprvse.exe            820    944      7      176      0      0 2023-02-26 00:02:43 UTC+0000                                 
+0xfffffadfce4b6c20 alg.exe                 276    672      6       75      0      0 2023-02-26 00:02:47 UTC+0000                                 
+0xfffffadfcded1780 msiexec.exe            2276    672      6      105      0      0 2023-02-26 00:04:37 UTC+0000                                 
+0xfffffadfce2325b0 FTK Imager.exe         2520   2252     11      267      0      1 2023-02-26 00:05:13 UTC+0000    **************************                              
+0xfffffadfce2708d0 wmiadap.exe            2972    184      3       18 ------      0 2023-02-26 00:06:44 UTC+0000                                 

@@ -1,0 +1,4 @@
+﻿"Name","ID","Starting Sector","Length in Sectors","Description","Flags"
+"vol1 (Unallocated: 0-62)","1","0","63","Unallocated","Unallocated"
+"vol2 (NTFS / exFAT (0x07): 63-20948759)","2","63","20948697","NTFS / exFAT (0x07)","Allocated"
+"vol3 (Unallocated: 20948760-20971519)","3","20948760","22760","Unallocated","Unallocated"

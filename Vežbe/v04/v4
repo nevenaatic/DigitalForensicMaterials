@@ -1,0 +1,217 @@
+// Sanja Drinic v4
+
+1. 
+192.168.42.132 "57333" - - [14/Feb/2023:12:55:45] "GET / HTTP/1.1" 200 490 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.39"
+192.168.42.132 "57358" - - [20/Feb/2023:12:05:39] "GET / HTTP/1.1" 200 490 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.39"
+192.168.42.132 "41038" - - [21/Feb/2023:11:05:17] "GET / HTTP/1.1" 200 490 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0"
+192.168.42.132 "41034" - - [15/Feb/2023:12:57:33] "GET / HTTP/1.1" 200 490 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0"
+192.168.42.132 "57346" - - [16/Feb/2023:12:59:01] "GET / HTTP/1.1" 200 490 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.39"
+192.168.42.132 "41036" - - [19/Feb/2023:16:05:46] "GET / HTTP/1.1" 200 490 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0"
+192.168.42.132 "57355" - - [20/Feb/2023:08:01:13] "GET / HTTP/1.1" 200 490 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.39"
+192.168.42.132 "57341" - - [15/Feb/2023:12:58:17] "GET / HTTP/1.1" 200 490 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.39"
+
+2.
+57333 - Bogoljub
+tcp 192.168.42.132:57333 192.168.1.3:57333 10.10.10.1:80     10.10.10.1:80
+
+57358- Bogoljub
+tcp 192.168.42.132:57358 192.168.1.3:57358 10.10.10.1:80     10.10.10.1:80
+tcp 192.168.42.132:57358 192.168.1.3:57358 10.10.10.1:80     10.10.10.1:80
+
+
+41038 - Pavle
+tcp 192.168.42.132:41038 192.168.1.2:41038 10.10.10.1:80     10.10.10.1:80
+
+41034 - Pavle
+tcp 192.168.42.132:41034 192.168.1.2:41034 10.10.10.1:80     10.10.10.1:80
+
+57346 - Bogoljub
+tcp 192.168.42.132:57346 192.168.1.3:57346 10.10.10.1:80     10.10.10.1:80
+tcp 192.168.42.132:57346 192.168.1.3:57346 10.10.10.1:80     10.10.10.1:80
+
+41036 - Pavle
+tcp 192.168.42.132:41036 192.168.1.2:41036 10.10.10.1:80     10.10.10.1:80
+
+57355 - Bogoljub
+tcp 192.168.42.132:57355 192.168.1.3:57355 10.10.10.1:80     10.10.10.1:80
+tcp 192.168.42.132:57355 192.168.1.3:57355 10.10.10.1:80     10.10.10.1:80
+
+
+57341 - Bogoljub
+tcp 192.168.42.132:57341 192.168.1.3:57341 10.10.10.1:80     10.10.10.1:80
+tcp 192.168.42.132:57341 192.168.1.3:57341 10.10.10.1:80     10.10.10.1:80
+
+3.
+
+No.     Time                          Source                Destination           Protocol Length Info
+   3661 2023-02-23 13:50:30.630382032 192.168.1.1           104.20.38.160         HTTP     529    GET / HTTP/1.1 
+
+Frame 3661: 529 bytes on wire (4232 bits), 529 bytes captured (4232 bits) on interface eth0, id 0
+Ethernet II, Src: PcsCompu_2b:f3:77 (08:00:27:2b:f3:77), Dst: 0c:32:2c:9b:00:00 (0c:32:2c:9b:00:00)
+Internet Protocol Version 4, Src: 192.168.1.1, Dst: 104.20.38.160
+Transmission Control Protocol, Src Port: 1641, Dst Port: 80, Seq: 1, Ack: 1, Len: 475
+Hypertext Transfer Protocol
+
+No.     Time                          Source                Destination           Protocol Length Info
+   3683 2023-02-23 13:50:30.720717249 192.168.1.1           104.20.39.160         HTTP     586    GET /cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=79f37fd849b2b01e HTTP/1.1 
+
+Frame 3683: 586 bytes on wire (4688 bits), 586 bytes captured (4688 bits) on interface eth0, id 0
+Ethernet II, Src: PcsCompu_2b:f3:77 (08:00:27:2b:f3:77), Dst: 0c:32:2c:9b:00:00 (0c:32:2c:9b:00:00)
+Internet Protocol Version 4, Src: 192.168.1.1, Dst: 104.20.39.160
+Transmission Control Protocol, Src Port: 1644, Dst Port: 80, Seq: 1, Ack: 1, Len: 532
+Hypertext Transfer Protocol
+
+No.     Time                          Source                Destination           Protocol Length Info
+   3689 2023-02-23 13:50:30.731274402 192.168.1.1           104.20.39.160         HTTP     605    GET /cdn-cgi/images/trace/managed/js/transparent.gif?ray=79f37fd849b2b01e HTTP/1.1 
+
+Frame 3689: 605 bytes on wire (4840 bits), 605 bytes captured (4840 bits) on interface eth0, id 0
+Ethernet II, Src: PcsCompu_2b:f3:77 (08:00:27:2b:f3:77), Dst: 0c:32:2c:9b:00:00 (0c:32:2c:9b:00:00)
+Internet Protocol Version 4, Src: 192.168.1.1, Dst: 104.20.39.160
+Transmission Control Protocol, Src Port: 1645, Dst Port: 80, Seq: 1, Ack: 1, Len: 551
+Hypertext Transfer Protocol
+
+No.     Time                          Source                Destination           Protocol Length Info
+   3691 2023-02-23 13:50:30.731514447 192.168.1.1           104.20.39.160         HTTP     523    GET /cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=79f37fd849b2b01e HTTP/1.1 
+
+Frame 3691: 523 bytes on wire (4184 bits), 523 bytes captured (4184 bits) on interface eth0, id 0
+Ethernet II, Src: PcsCompu_2b:f3:77 (08:00:27:2b:f3:77), Dst: 0c:32:2c:9b:00:00 (0c:32:2c:9b:00:00)
+Internet Protocol Version 4, Src: 192.168.1.1, Dst: 104.20.39.160
+Transmission Control Protocol, Src Port: 1646, Dst Port: 80, Seq: 1, Ack: 1, Len: 469
+Hypertext Transfer Protocol
+
+No.     Time                          Source                Destination           Protocol Length Info
+   3765 2023-02-23 13:50:30.825068317 192.168.1.1           104.20.39.160         HTTP     413    GET /favicon.ico HTTP/1.1 
+
+Frame 3765: 413 bytes on wire (3304 bits), 413 bytes captured (3304 bits) on interface eth0, id 0
+Ethernet II, Src: PcsCompu_2b:f3:77 (08:00:27:2b:f3:77), Dst: 0c:32:2c:9b:00:00 (0c:32:2c:9b:00:00)
+Internet Protocol Version 4, Src: 192.168.1.1, Dst: 104.20.39.160
+Transmission Control Protocol, Src Port: 1644, Dst Port: 80, Seq: 533, Ack: 44153, Len: 359
+Hypertext Transfer Protocol
+
+No.     Time                          Source                Destination           Protocol Length Info
+   3801 2023-02-23 13:50:30.941526444 192.168.1.1           104.20.39.160         HTTP     1926   POST /cdn-cgi/challenge-platform/h/g/flow/ov1/0.8424579405364915:1677359189:kiw0ddHKKk5mC4YKqj5H6hD6kjIt4C-Y0tA59L72UtY/79f37fd849b2b01e/7da85f771c681c7 HTTP/1.1  (application/x-www-form-urlencoded)
+
+Frame 3801: 1926 bytes on wire (15408 bits), 1926 bytes captured (15408 bits) on interface eth0, id 0
+Ethernet II, Src: PcsCompu_2b:f3:77 (08:00:27:2b:f3:77), Dst: 0c:32:2c:9b:00:00 (0c:32:2c:9b:00:00)
+Internet Protocol Version 4, Src: 192.168.1.1, Dst: 104.20.39.160
+Transmission Control Protocol, Src Port: 1644, Dst Port: 80, Seq: 1513, Ack: 44461, Len: 1872
+[2 Reassembled TCP Segments (2493 bytes): #3800(621), #3801(1872)]
+Hypertext Transfer Protocol
+HTML Form URL Encoded: application/x-www-form-urlencoded
+
+No.     Time                          Source                Destination           Protocol Length Info
+   3921 2023-02-23 13:50:33.718583982 192.168.1.1           104.20.39.160         HTTP     1926   POST /cdn-cgi/challenge-platform/h/g/flow/ov1/0.8424579405364915:1677359189:kiw0ddHKKk5mC4YKqj5H6hD6kjIt4C-Y0tA59L72UtY/79f37fd849b2b01e/7da85f771c681c7 HTTP/1.1  (application/x-www-form-urlencoded)
+
+Frame 3921: 1926 bytes on wire (15408 bits), 1926 bytes captured (15408 bits) on interface eth0, id 0
+Ethernet II, Src: PcsCompu_2b:f3:77 (08:00:27:2b:f3:77), Dst: 0c:32:2c:9b:00:00 (0c:32:2c:9b:00:00)
+Internet Protocol Version 4, Src: 192.168.1.1, Dst: 104.20.39.160
+Transmission Control Protocol, Src Port: 1645, Dst Port: 80, Seq: 1173, Ack: 478, Len: 1872
+[2 Reassembled TCP Segments (2493 bytes): #3920(621), #3921(1872)]
+Hypertext Transfer Protocol
+HTML Form URL Encoded: application/x-www-form-urlencoded
+
+No.     Time                          Source                Destination           Protocol Length Info
+   3980 2023-02-23 13:50:39.235441362 192.168.1.1           104.20.39.160         HTTP     1928   POST /cdn-cgi/challenge-platform/h/g/flow/ov1/0.8424579405364915:1677359189:kiw0ddHKKk5mC4YKqj5H6hD6kjIt4C-Y0tA59L72UtY/79f37fd849b2b01e/7da85f771c681c7 HTTP/1.1  (application/x-www-form-urlencoded)
+
+Frame 3980: 1928 bytes on wire (15424 bits), 1928 bytes captured (15424 bits) on interface eth0, id 0
+Ethernet II, Src: PcsCompu_2b:f3:77 (08:00:27:2b:f3:77), Dst: 0c:32:2c:9b:00:00 (0c:32:2c:9b:00:00)
+Internet Protocol Version 4, Src: 192.168.1.1, Dst: 104.20.39.160
+Transmission Control Protocol, Src Port: 1646, Dst Port: 80, Seq: 1091, Ack: 478, Len: 1874
+[2 Reassembled TCP Segments (2495 bytes): #3979(621), #3980(1874)]
+Hypertext Transfer Protocol
+HTML Form URL Encoded: application/x-www-form-urlencoded
+
+No.     Time                          Source                Destination           Protocol Length Info
+   4026 2023-02-23 13:50:47.561761182 192.168.1.1           104.20.39.160         HTTP     1928   POST /cdn-cgi/challenge-platform/h/g/flow/ov1/0.8424579405364915:1677359189:kiw0ddHKKk5mC4YKqj5H6hD6kjIt4C-Y0tA59L72UtY/79f37fd849b2b01e/7da85f771c681c7 HTTP/1.1  (application/x-www-form-urlencoded)
+
+Frame 4026: 1928 bytes on wire (15424 bits), 1928 bytes captured (15424 bits) on interface eth0, id 0
+Ethernet II, Src: PcsCompu_2b:f3:77 (08:00:27:2b:f3:77), Dst: 0c:32:2c:9b:00:00 (0c:32:2c:9b:00:00)
+Internet Protocol Version 4, Src: 192.168.1.1, Dst: 104.20.39.160
+Transmission Control Protocol, Src Port: 1651, Dst Port: 80, Seq: 622, Ack: 1, Len: 1874
+[2 Reassembled TCP Segments (2495 bytes): #4025(621), #4026(1874)]
+Hypertext Transfer Protocol
+HTML Form URL Encoded: application/x-www-form-urlencoded
+
+No.     Time                          Source                Destination           Protocol Length Info
+   4092 2023-02-23 13:50:48.669084264 192.168.1.1           104.20.39.160         HTTP     508    GET /cdn-cgi/challenge-platform/h/g/img/79f37fd849b2b01e/1677360194904/JjwTw3snJoVlhxn HTTP/1.1 
+
+Frame 4092: 508 bytes on wire (4064 bits), 508 bytes captured (4064 bits) on interface eth0, id 0
+Ethernet II, Src: PcsCompu_2b:f3:77 (08:00:27:2b:f3:77), Dst: 0c:32:2c:9b:00:00 (0c:32:2c:9b:00:00)
+Internet Protocol Version 4, Src: 192.168.1.1, Dst: 104.20.39.160
+Transmission Control Protocol, Src Port: 1651, Dst Port: 80, Seq: 2496, Ack: 50350, Len: 454
+Hypertext Transfer Protocol
+
+No.     Time                          Source                Destination           Protocol Length Info
+   4105 2023-02-23 13:50:48.917353827 192.168.1.1           104.20.39.160         HTTP     3523   POST /cdn-cgi/challenge-platform/h/g/flow/ov1/0.8424579405364915:1677359189:kiw0ddHKKk5mC4YKqj5H6hD6kjIt4C-Y0tA59L72UtY/79f37fd849b2b01e/7da85f771c681c7 HTTP/1.1  (application/x-www-form-urlencoded)
+
+Frame 4105: 3523 bytes on wire (28184 bits), 3523 bytes captured (28184 bits) on interface eth0, id 0
+Ethernet II, Src: PcsCompu_2b:f3:77 (08:00:27:2b:f3:77), Dst: 0c:32:2c:9b:00:00 (0c:32:2c:9b:00:00)
+Internet Protocol Version 4, Src: 192.168.1.1, Dst: 104.20.39.160
+Transmission Control Protocol, Src Port: 1651, Dst Port: 80, Seq: 15812, Ack: 50605, Len: 3469
+[5 Reassembled TCP Segments (16331 bytes): #4097(622), #4098(6800), #4100(2720), #4102(2720), #4105(3469)]
+Hypertext Transfer Protocol
+HTML Form URL Encoded: application/x-www-form-urlencoded
+
+No.     Time                          Source                Destination           Protocol Length Info
+   4147 2023-02-23 13:50:51.828351133 192.168.1.1           104.20.39.160         HTTP     803    POST /cdn-cgi/challenge-platform/h/g/flow/ov1/0.8424579405364915:1677359189:kiw0ddHKKk5mC4YKqj5H6hD6kjIt4C-Y0tA59L72UtY/79f37fd849b2b01e/7da85f771c681c7 HTTP/1.1  (application/x-www-form-urlencoded)
+
+Frame 4147: 803 bytes on wire (6424 bits), 803 bytes captured (6424 bits) on interface eth0, id 0
+Ethernet II, Src: PcsCompu_2b:f3:77 (08:00:27:2b:f3:77), Dst: 0c:32:2c:9b:00:00 (0c:32:2c:9b:00:00)
+Internet Protocol Version 4, Src: 192.168.1.1, Dst: 104.20.39.160
+Transmission Control Protocol, Src Port: 1652, Dst Port: 80, Seq: 15583, Ack: 1, Len: 749
+[8 Reassembled TCP Segments (16331 bytes): #4131(622), #4132(1360), #4134(2720), #4138(2720), #4140(2720), #4142(2720), #4146(2720), #4147(749)]
+Hypertext Transfer Protocol
+HTML Form URL Encoded: application/x-www-form-urlencoded
+
+No.     Time                          Source                Destination           Protocol Length Info
+   4187 2023-02-23 13:50:56.244322277 192.168.1.1           104.20.39.160         HTTP     1425   POST /cdn-cgi/challenge-platform/h/g/flow/ov1/0.8424579405364915:1677359189:kiw0ddHKKk5mC4YKqj5H6hD6kjIt4C-Y0tA59L72UtY/79f37fd849b2b01e/7da85f771c681c7 HTTP/1.1  (application/x-www-form-urlencoded)
+
+Frame 4187: 1425 bytes on wire (11400 bits), 1425 bytes captured (11400 bits) on interface eth0, id 0
+Ethernet II, Src: PcsCompu_2b:f3:77 (08:00:27:2b:f3:77), Dst: 0c:32:2c:9b:00:00 (0c:32:2c:9b:00:00)
+Internet Protocol Version 4, Src: 192.168.1.1, Dst: 104.20.39.160
+Transmission Control Protocol, Src Port: 1652, Dst Port: 80, Seq: 31914, Ack: 8968, Len: 1371
+[4 Reassembled TCP Segments (16953 bytes): #4184(622), #4185(5440), #4186(9520), #4187(1371)]
+Hypertext Transfer Protocol
+HTML Form URL Encoded: application/x-www-form-urlencoded
+
+No.     Time                          Source                Destination           Protocol Length Info
+   4226 2023-02-23 13:50:59.207615191 192.168.1.1           104.20.39.160         HTTP     6865   POST /cdn-cgi/challenge-platform/h/g/flow/ov1/0.8424579405364915:1677359189:kiw0ddHKKk5mC4YKqj5H6hD6kjIt4C-Y0tA59L72UtY/79f37fd849b2b01e/7da85f771c681c7 HTTP/1.1  (application/x-www-form-urlencoded)
+
+Frame 4226: 6865 bytes on wire (54920 bits), 6865 bytes captured (54920 bits) on interface eth0, id 0
+Ethernet II, Src: PcsCompu_2b:f3:77 (08:00:27:2b:f3:77), Dst: 0c:32:2c:9b:00:00 (0c:32:2c:9b:00:00)
+Internet Protocol Version 4, Src: 192.168.1.1, Dst: 104.20.39.160
+Transmission Control Protocol, Src Port: 1653, Dst Port: 80, Seq: 10143, Ack: 1, Len: 6811
+[6 Reassembled TCP Segments (16953 bytes): #4214(622), #4215(1360), #4219(2720), #4220(2720), #4222(2720), #4226(6811)]
+Hypertext Transfer Protocol
+HTML Form URL Encoded: application/x-www-form-urlencoded
+
+No.     Time                          Source                Destination           Protocol Length Info
+   4239 2023-02-23 13:50:59.298212321 192.168.1.1           104.20.39.160         HTTP     1452   POST / HTTP/1.1  (application/x-www-form-urlencoded)
+
+Frame 4239: 1452 bytes on wire (11616 bits), 1452 bytes captured (11616 bits) on interface eth0, id 0
+Ethernet II, Src: PcsCompu_2b:f3:77 (08:00:27:2b:f3:77), Dst: 0c:32:2c:9b:00:00 (0c:32:2c:9b:00:00)
+Internet Protocol Version 4, Src: 192.168.1.1, Dst: 104.20.39.160
+Transmission Control Protocol, Src Port: 1653, Dst Port: 80, Seq: 17583, Ack: 2683, Len: 1398
+[2 Reassembled TCP Segments (2027 bytes): #4238(629), #4239(1398)]
+Hypertext Transfer Protocol
+HTML Form URL Encoded: application/x-www-form-urlencoded
+
+No.     Time                          Source                Destination           Protocol Length Info
+   4248 2023-02-23 13:50:59.358112514 192.168.1.1           104.20.39.160         HTTP     471    GET /favicon.ico HTTP/1.1 
+
+Frame 4248: 471 bytes on wire (3768 bits), 471 bytes captured (3768 bits) on interface eth0, id 0
+Ethernet II, Src: PcsCompu_2b:f3:77 (08:00:27:2b:f3:77), Dst: 0c:32:2c:9b:00:00 (0c:32:2c:9b:00:00)
+Internet Protocol Version 4, Src: 192.168.1.1, Dst: 104.20.39.160
+Transmission Control Protocol, Src Port: 1655, Dst Port: 80, Seq: 1, Ack: 1, Len: 417
+Hypertext Transfer Protocol
+
+
+
+
+-----------------------------------------
+kada je uspostavljena bzb komunikacija:
+
+tls and ip.dst==104.20.38.160
+
+
+

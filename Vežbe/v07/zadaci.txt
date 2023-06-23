@@ -1,0 +1,21 @@
+
+
+** bitno za nalaz misljenja -> screenshot je pronadjen kod Paje a ulogovan je Bogoljub Gagic
+
+1.
+
+
+2.
+
+
+3.
+slike 1 -> izvucena iz snimka 1 na njoj se nalaze 3 osobe: Jezda ...
+slike 2 -> izvucena iz snimka 2 na njoj se nalaze automobilske tablice BG 407 964
+
+snimci su obradjeni  pomocu alata: VideoCleaner
+i slike extrahovane su procesirane pomocu SmartDeblur-a
+
+
+
+https://sr.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%87%D0%BD%D0%BE_%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE -> 
+TODO: ponaci nazive likova iz serije Porodicno blago sa slike

@@ -1,0 +1,176 @@
+Pid      Name                 Command Time                   Command
+-------- -------------------- ------------------------------ -------
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo apt-get install steghide
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo apt-get update
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo snap install snapd
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo apt-get update
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo swapon -s
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo apt-get install snapd
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   echo -e "\ndeb http://downloads.sourceforge.net/project/ubuntuzilla/mozilla/apt all main" | sudo tee -a /etc/apt/sources.list 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   ls -l
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo snap install core snapd
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo apt-get install cryptsetup
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo apt-get install ccrypt
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo reboot
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo apt-get install steghide
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo snap install whatsapp-for-linux
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo reboot
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo apt-get install snapd
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo snap install core 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo snap install whatsapp-for-linux
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo apt-get install ccrypt
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo fdisk -l
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo snap install whatsapp-for-linux
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   echo -e "\ndeb http://downloads.sourceforge.net/project/ubuntuzilla/mozilla/apt all main" | sudo tee -a /etc/apt/sources.list > /dev/null
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo snap refresh core
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo mkfs.ext4 /dev/mapper/crypthome 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   cat /etc/os-release 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   date
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo apt install gcc
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   history
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo mkfs.ext4 /dev/mapper/crypthome
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo mkfs.ext4 /dev/sdb2
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo apt-get update
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo apt-get install cryptsetup
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo mkfs.ext4 /dev/mapper/crypthome
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo mount /dev/mapper/crypthome /media/pavle/PajaUsb
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo umount /media/pavle/usb 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo cryptsetup luksClose /dev/sdb2
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   ls
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   cd 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo mv ~/Downloads/fklg__password_123.zip .
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   ls
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo apt-get install thunderbird-mozilla-build
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo parted -l
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   cd /media/pavle/usb/
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   ld
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   uname -a
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo mkfs.ext4 /dev/mapper/luks-ecf26650-e9ce-4a61-80ef-573b7f0f2160 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo mount /dev/mapper/luks-ecf26650-e9ce-4a61-80ef-573b7f0f2160 /media/pavle/usb
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   ls -l
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo fdisk -l
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo cryptsetup -r luksOpen /dev/sdb2 crypthome
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo fdisk -l
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo cryptsetup luksClose /dev/mapped
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   history
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   cd ..
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo cryptsetup -r luksOpen /dev/sdb2 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo cryptsetup luksOpen /dev/sdb2 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   history
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   history 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo apt-get install thunderbird-moyilla-build
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo umount /dev/sdb3
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo fdisk -l
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   history
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo mkfs.vfat -F 32 /dev/mapper/luks1
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo mount /dev/mapper/luks1 /media/pavle/usb
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo umount /media/pavle/usb 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo cryptsetup luksClose /dev/mapped/luks1
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo snap install whatsapp-for-linux
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo apt-get install snapd
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   uname -a
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo fdisk -l
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo fdisk -l
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo cryptsetup luksFormat --type luks1 -c aes-xts-plain:sha256 -s 512 /dev/sdb3
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo cryptsetup open /dev/sdb3 luks1
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   cd /media/pavle/usb/
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo mv ~/Downloads/fklg__password_123.zip .
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo cp ~/Downloads/fklg__password_123.zip .
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   whatsapp-for-linux 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   ls
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   history
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   timedatectl c==
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   timedatectl
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   	
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   uname -a
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo date -s 2023-02-25
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo timedatectl set-time 2023-02-25
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo apt-get install steghide
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   cd 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo cryptsetup luksClose /dev/sdb3
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   history 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com C1289A29
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo fdisk -l
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   cat /etc/timezone 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   timedatectl 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   ls
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   cd Pictures/
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   timedatectl 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   ls
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   nano tekst.txt
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   cat tekst.txt 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   steghide embed -cf porodicnoblago.png -ef tekst.txt 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   steghide embed -cf knjiga.jpeg -ef tekst.txt 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo date -s 2023-02-25
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   timedatectl 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   history
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   timedatectl 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo date -s 2023-02-24
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   history
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   cd /opt
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo cryptsetup luksOpen /dev/sdb sdb2
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   nano .bash_history 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo parted -l
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   history
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   history
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   timedatectl 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo umount /dev/sdb2
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   lsblk -o NAME,FSTYPE,LABEL,SIZE,MOUNTPOINT
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   lsblk -o NAME,FSTYPE,LABEL,SIZE,MOUNTPOINT
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo cryptsetup luksFormat --type luks1 -c aes-xts-plain:sha256 -s 512 /dev/sdb2
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   lsblk -o NAME,FSTYPE,LABEL,SIZE,MOUNTPOINT
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo fdisk -l
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo timedatectl --set-ntp true
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo timedatectl set-ntp true
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   timedatectl 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo timedatectl set-time 2023-02-25 15:00:35
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo timedatectl set-time "2023-02-25 15:00:35"
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   timedatectl 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   ls
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   cd Documents/
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   ls
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   cd Paja/
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   ls
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   sudo apt-get install ccrypt
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   nano adresa
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   clear
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   cat adresa 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   ccencrypt adresa 
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   ls
+    3479 bash                 2023-02-25 22:42:13 UTC+0000   cat adresa.cpt 
+    3479 bash                 2023-02-25 22:42:21 UTC+0000   cd /opt
+    3479 bash                 2023-02-25 22:42:22 UTC+0000   ls
+    3479 bash                 2023-02-25 22:42:43 UTC+0000   sudo wget https://github.com/microsoft/avml/releases/download/v0.6.0/avml 
+    3479 bash                 2023-02-25 22:42:53 UTC+0000   ls
+    3479 bash                 2023-02-25 22:43:14 UTC+0000   rm -r avml.1
+    3479 bash                 2023-02-25 22:43:26 UTC+0000   sudo rm -r avml.1 
+    3479 bash                 2023-02-25 22:43:29 UTC+0000   ls
+    3479 bash                 2023-02-25 22:47:21 UTC+0000   sudo ./avml /media/sf_Forenzicke_slike/PavleRam.raw

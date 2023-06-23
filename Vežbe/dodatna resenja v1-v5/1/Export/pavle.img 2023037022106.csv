@@ -1,0 +1,6 @@
+﻿"Name","ID","Starting Sector","Length in Sectors","Description","Flags"
+"vol1 (Unallocated: 0-2047)","1","0","2048","Unallocated","Unallocated"
+"vol2 (Linux (0x83): 2048-16777215)","2","2048","16775168","Linux (0x83)","Allocated"
+"vol3 (Unallocated: 16777216-16779263)","3","16777216","2048","Unallocated","Unallocated"
+"vol6 (Linux Swap / Solaris x86 (0x82): 16779264-20969471)","6","16779264","4190208","Linux Swap / Solaris x86 (0x82)","Allocated"
+"vol7 (Unallocated: 20969472-20971519)","7","20969472","2048","Unallocated","Unallocated"

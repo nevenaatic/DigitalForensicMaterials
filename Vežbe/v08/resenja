@@ -1,0 +1,34 @@
+
+
+1.
+ccguess adresa.cpt      
+Enter approximate key: 
+
+Generating patterns...1..2..3..4..5..sorting...done.
+
+Possible match: 123 (3 changes, found after trying 164276 keys)
+
+ccrypt -d adresa.cpt             
+Enter decryption key: (123)
+
+
+ADDRESS Hôtel Casablanca 
+02 Blvd Mohamed Diouri, Sidi Belyout, 20250 Casablanca, Morocco
+
+https://www.booking.com/hotel/ma/address-casablanca.html?aid=318615&label=New_English_EN_RS_26767343785-zmbYI42c1GdYetwdWZZRLAS217275903812%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-297601666555%3Adsa-64415224945%3Alp21213%3Ali%3Adec%3Adm&sid=dba63777df1a80040b2eef86999a4883&dest_id=-28159;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1684757508;srpvid=7ca055c132f804d1;type=total;ucfs=1&#hotelTmpl
+
+
+2.
+
+sudo bruteforce-luks -t 2 -v 1 -f rockyou.txt usb-disk.img
+Password found: 021
+
+
+sudo cryptsetup luksOpen usb-disk.img sdb1
+sudo mount /dev/mapper/sdb1 TestFolder
+Unzipped fklg__password_123.zip
+fk_install.exe found in usb memory
+
+
+
+

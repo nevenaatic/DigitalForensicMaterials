@@ -1,0 +1,7 @@
+﻿"Name","ID","Starting Sector","Length in Sectors","Description","Flags"
+"vol1 (Unallocated: 0-2047)","1","0","2048","Unallocated","Unallocated"
+"vol2 (NTFS / exFAT (0x07): 2048-104447)","2","2048","102400","NTFS / exFAT (0x07)","Allocated"
+"vol3 (NTFS / exFAT (0x07): 104448-40915671)","3","104448","40811224","NTFS / exFAT (0x07)","Allocated"
+"vol4 (Unallocated: 40915672-40916991)","4","40915672","1320","Unallocated","Unallocated"
+"vol5 (Unknown Type (0x27): 40916992-41938943)","5","40916992","1021952","Unknown Type (0x27)","Allocated"
+"vol6 (Unallocated: 41938944-41943039)","6","41938944","4096","Unallocated","Unallocated"

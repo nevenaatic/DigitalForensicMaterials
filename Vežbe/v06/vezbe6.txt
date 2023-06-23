@@ -1,0 +1,22 @@
+
+
+
+1.
+/home/student/Desktop/e2_29_2022/e2_29_2022/v06/kontakti.png
+/home/student/Desktop/e2_29_2022/e2_29_2022/v06/pozivi.png
+/home/student/Desktop/e2_29_2022/e2_29_2022/v06/sms.png
+
+2. 
+file:///home/kali/LDF/radni_direktorijum/e2_29_2022/ALEAPP_Reports_2023-05-08_Monday_141329/WhatsApp%20-%20One%20To%20One%20Messages.html?navpos=530
+WhatsApp - One To One Messages located at: /home/kali/Documents/Forenzicke_slike/Dusanka_Svilarevic/FS_mobilni_adb_e2_29_2022/data/data/com.whatsapp/databases/msgstore.db
+
+
+3. 
+9	1.75871571919035E+018	1.75871571919035E+018	"" <rdc01z+8wu62vn3pz8tc@guerrillamail.com>	"dudasvilarevic60@gmail.com" <dudasvilarevic60@gmail.com>				1677242010000	1677242011152	Online ticket	Dear Dušanka, We are sending you tickets for the destination Belgrade - Casab...		2		0	0.1|PavleKarta.pdf|application/pdf|70907|text/html|SERVER_ATTACHMENT|1758715719190354257_1758715719190354257_0.1||0	1		0	0	0	0	0	x�}��N�@��>Ť7�Q<�C%�_LTP�3m��v�Kfgmx��r!�@"{��ͷ����2����������+KdG�T���� ��I�,��Jr���2�cI0�kt�k4�O�Ѕo�`��-� (��T��@���&�
+�AU�!F���x���&U�M�{�*�9q��P����s2��r�xbVZ��߰�M'ɴ-j�1,
+`��!AX3��h-�q�8n�vX3�x/��0}y{i��r9�굩��]d���w_�����m�b�P�F�(�idl� q�\����n�u49=2i��OL��Hb�t��#��		0	-1			1				https://mail.google.com/mail/?extsrc=sync&client=g&plid=ACUX6DM3XhWtToKpxVUba93vG-ak69ogX3xrJXY	0	0	0	0
+10	1.75871590046603E+018	1.75871571919035E+018	"Dusanka Svilarevic" <dudasvilarevic60@gmail.com>	"Paja" <pajapandurovic60@gmail.com>				1677242183000	1677242183536	Fwd: Online ticket	Evo i tvoje karte.		0		0	0.1|PavleKarta.pdf|application/pdf|70907|text/html|SERVER_ATTACHMENT|1758715719190354257_1758715900466028079_0.1||0	1		0	0	0	0	0	x��S�NA}�+n6�K�햖�n�ZTD�R���ݽ,C�;efvWxT���'�ȳ���叜�b)�n����s�=�Ιf�R������J0Щ8!��T���i!G�|�8
+)\��A;�f_N�@4D�{����LS��Զ����'Bf( ;I)��1[d�e��M5�xB��Nk���&±�#߱�Z4d��狕�j��*i���Wu�%$%�-���eD�wz}���iM2��kf��\r���Rd��VR>�jj������c*�"\~_��C�T�������Yh7��P��shH�Ⱦ0]�j(LBT)�()eA������X������� b᚛���C(����f��h!_(�CGp&��A(8�1AHJ�51��GCcx� ����t�8�2)b�A҈����) +���i0{랡� �TD1Is{��3L�<�Y`�G�Q!?�d�$���w-m�ХXC�lO�<dm.��v�`!5`?Q4��c�G���Y��\��9�]G�`/k���]�F3�[~�}����e���������qL!�;�0속��%C���0��f|�H~K��\���s_�%��N��k��+^�Sse����J$2 ?�\~�(��k�z�V*W���J��@�o�� �y�w����a�~�և;�[N�a���`�y��ۇ01��̬
+����		0	-1			1				https://mail.google.com/mail/?extsrc=sync&client=g&plid=ACUX6DM3XhWtToKpxVUba93vG-ak69ogX3xrJXY	0	0	0	0
+
+

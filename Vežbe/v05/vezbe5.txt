@@ -1,0 +1,253 @@
+
+
+1.
+Pavle - Mozilla Firefox
+"Source Name","Domain","Text","Program Name","Date Accessed","Data Source"
+"places.sqlite","google.com","ADDRESS Hôtel Casablanca","FireFox","2023-02-24 23:12:19 CET","pavle.img"
+"places.sqlite","google.com","ADDRESS Hôtel Casablanca booking","FireFox","2023-02-24 23:12:29 CET","pavle.img"
+"places.sqlite","google.com","hotel caxablana","FireFox","2023-02-24 23:18:10 CET","pavle.img"
+"places.sqlite","google.com","turisticka agencija kazablanka","FireFox","2023-02-25 13:48:39 CET","pavle.img"
+"places.sqlite","google.com","kazablanka maroko google maps","FireFox","2023-02-25 13:49:01 CET","pavle.img"
+
+
+2. 
+"Source Name","E-Mail From","E-Mail To","Subject","Date Received","Message (Plaintext)","Message ID","Path","Thread ID","Data Source"
+"INBOX","dudasvilarevic60@gmail.com;","pajapandurovic60@gmail.com;","Fwd: Online ticket","2023-02-24 13:36:23 CET","Evo i tvoje karte.
+
+---------- Forwarded message ---------
+Од: <rdc01z+8wu62vn3pz8tc@guerrillamail.com>
+Date: пет, 24. феб 2023. у 13:33
+Subject: Online ticket
+...","Not available","/imap.gmail.com/INBOX","0fcc575b-67df-43ee-aa9c-1f11d1d51561","pavle.img"
+"INBOX","dudasvilarevic60@gmail.com;","pajapandurovic60@gmail.com;","Fwd: Online tickets","2023-02-24 13:36:04 CET","Pajo evo moje karte. Istampaj i skini.
+
+
+---------- Forwarded message ---------
+Од: <rdc01z+8wu62vn3pz8tc@guerrillamail.com>
+Date: пет, 24. феб 2023. у 13:31
+Su...","Not available","/imap.gmail.com/INBOX","a55bcba7-543d-46d7-8ec5-411fcbe8b759","pavle.img"
+
+3.
+slike u e2_29_2022 folderu v5
+slike avionskih karata Dude i Pavle
+
+	exiftool DudaKarta.pdf 
+ExifTool Version Number         : 12.40
+File Name                       : DudaKarta.pdf
+Directory                       : .
+File Size                       : 69 KiB
+File Modification Date/Time     : 2023:04:19 14:22:56+02:00
+File Access Date/Time           : 2023:04:19 14:26:34+02:00
+File Inode Change Date/Time     : 2023:04:19 14:26:34+02:00
+File Permissions                : -rwxrwx---
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.6
+Linearized                      : No
+Page Count                      : 1
+Language                        : sr-RS
+Author                          : Svetlana Antesevic
+Creator                         : Writer
+Producer                        : LibreOffice 7.3
+Create Date                     : 2023:02:24 13:26:06+01:00
+
+	exiftool PavleKarta.pdf 
+ExifTool Version Number         : 12.40
+File Name                       : PavleKarta.pdf
+Directory                       : .
+File Size                       : 69 KiB
+File Modification Date/Time     : 2023:04:19 14:23:05+02:00
+File Access Date/Time           : 2023:04:19 14:26:34+02:00
+File Inode Change Date/Time     : 2023:04:19 14:26:34+02:00
+File Permissions                : -rwxrwx---
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.6
+Linearized                      : No
+Page Count                      : 1
+Language                        : sr-RS
+Author                          : Svetlana Antesevic
+Creator                         : Writer
+Producer                        : LibreOffice 7.3
+Create Date                     : 2023:02:24 13:23:03+01:00
+
+
+4.
+"Source Name","E-Mail From","E-Mail To","Subject","Date Received","Message (Plaintext)","Message ID","Path","Thread ID","Data Source"
+"INBOX","rcs94f+c129a2w5t6m60@guerrillamail.com;","pajapandurovic60@gmail.com;","FKL report","2023-02-23 09:11:28 CET","Hello Paja, 
+
+We send you a report about accessing the pages you marked as favorites. 
+The report is below:
+
+-----------------------------------
+
+---> 23:54:13 ...","Not available","/imap.gmail.com/INBOX","ddf739bd-e6e0-4c30-a5bf-2421559fee3b","pavle.img"
+"INBOX","rcs94f+c129a2w5t6m60@guerrillamail.com;","pajapandurovic60@gmail.com;","FKL report","2023-02-23 09:09:36 CET","Hello Paja, 
+
+We send you a report about accessing the pages you marked as favorites. 
+The report is below:
+
+-----------------------------------
+
+---> 23:54:13 ...","Not available","/imap.gmail.com/INBOX","ddf739bd-e6e0-4c30-a5bf-2421559fee3b","pavle.img"
+
+
+u ovim mejlovima se nalazi sledeci sadrzaj: 
+MEJL1: 
+Hello Paja, 
+
+We send you a report about accessing the pages you marked as favorites. 
+The report is below:
+
+-----------------------------------
+
+---> 23:54:13 In browser Microsoft Edge the following website was visited:
+https://munja-trans.surge.sh
+, title of page: "https://munja-trans.surge.sh and 2 more pages - Personal - Microsoft? Edge"
+
+---> 23:58:08 in application "Microsoft Edge", window "https://munja-trans.surge.sh - Personal - Microsoft? Edge" user cerci typed the following text:
+munja123 [Enter] *****************************************************************************************************************************************************
+¤
+
+-----------------------------------
+
+
+
+
+
+----
+Sent using Guerrillamail.com
+Block or report abuse: https://www.guerrillamail.com//abuse/?a=UUB%2BBB0BTbAAmgGi%2BX1JIjTAQMuZ3plTyKk%3D
+
+
+dlV8bK8dHNOZgsNLNI4PJDmSX90uIL8JTWZaRUq7lODILT692As3VhrjF
+         BOUPRPw/RUtlDykOjqht96KYxRZ1pVC05sPk3rVhwopfVccNccYV9xw/PL1hHyRWZ+Y/
+         qDhWraxqqoq64Wm3/82c39CCMV7dkctKr/a5SkX+/ZmpNvLEgDbdcSBShZiMG0d7cT2P
+         naMw=ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=dkim-signature:content-transfer-encoding:subject:from:to:date
+         :message-id:mime-version;
+        bh=wAjb0oORUXWO1h1tZmNPCU4s84ul4hpytMAN7wSKhQw=;
+        b=MDUSMAOnWu5HbumhNVR9l4sl3inD0Vde8AKMuUnktmb2MiPcst4DFLO5zOTEj5nEhD
+         EDMijZMNXvgmiiJJptnFmnsdmG9B7lnfCfzwMyEGQg3SzfH11pycAvCGj2VCLF11AIME
+         OR6SlkzeS9SHloHTfjKp2LS8V33YnHkk8TV81h+nqn3KZrefVAGKgwhVJZrqlkNDiK8s
+         jRKZbXwh7Lx6S/2L3rvYi7Mi11t0NSRKHi4X2BND92t3rGGsIUf13pCwvRs+DuRKKadE
+         Pydksyaf9mC8t0UbbAw3T+J0fjEGgFcJM7MqDLeiN2vHT+Z7jpzJOGJg66i7LsbaoXqQ
+         rIzg=ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@guerrillamail.com header.s=highgrade header.b=WjFvzApp;
+       spf=pass (google.com: domain of rcs94f+c129a2w5t6m60@guerrillamail.com designates 2a01:4f8:251:657::2 as permitted sender) smtp.mailfrom=rcs94f+c129a2w5t6m60@guerrillamail.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=guerrillamail.com
+Return-Path: <rcs94f+c129a2w5t6m60@guerrillamail.com>
+Received: from mail.guerrillamail.com (mail.guerrillamail.com. [2a01:4f8:251:657::2])
+        by mx.google.com with ESMTPS id a7-20020adffac7000000b002c54c5d77ffsi9799090wrs.925.2023.02.23.00.11.28
+        for <pajapandurovic60@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits%6/256);
+        Thu, 23 Feb 2023 00:11:28 -0800 (PST)
+Received-SPF: pass (google.com: domain of rcs94f+c129a2w5t6m60@guerrillamail.com designates 2a01:4f8:251:657::2 as permitted sender) client-ip*01:4f8:251:657::2;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@guerrillamail.com header.s=highgrade header.b=WjFvzApp;
+       spf=pass (google.com: domain of rcs94f+c129a2w5t6m60@guerrillamail.com designates 2a01:4f8:251:657::2 as permitted sender) smtp.mailfrom=rcs94f+c129a2w5t6m60@guerrillamail.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=guerrillamail.com
+Received: by 168.119.142.36 with HTTP; Thu, 23 Feb 2023 08:11:28 +0000
+MIME-Version: 1.0
+Message-ID: <52f3f2f5b490b38020292335d5c311bfb128@guerrillamail.com>
+Date: Thu, 23 Feb 2023 08:11:28 +0000
+To: "pajapandurovic60@gmail.com" <pajapandurovic60@gmail.com>
+From: <rcs94f+c129a2w5t6m60@guerrillamail.com>
+Subject: FKL report
+X-Originating-IP: [188.2.124.101]
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Domain-Signer: PHP mailDomainSigner 0.2-20110415 <http://code.google.com/p/php-mail-domain-signer/>
+DKIM-Signature: v=1; a=rsa-sha256; s=highgrade; d=guerrillamail.com; lx4;
+	t77139888; c=relaxed/relaxed; h=to:from:subject;
+	bh=wAjb0oORUXWO1h1tZmNPCU4s84ul4hpytMAN7wSKhQw=;
+	b=WjFvzAppmSyVL4gySG/IxM4vf0zXRU9ohy3rctUWCBiDmQiD9xgugZyQFcd04ppi31dBJprWEkoT
+	5alClc1JoDsZGuDjk1HlCM26BfwvQ30hxodXZwGZhs9S/9+FvE4U/8jhd0F90noEesphTzJzyzQk
+	kkKZtAKOUzdy/2AQY08IJflhGhk16LnXGgwIMW1QjZI
+	
+	
+	
+MEJL2:
+
+Hello Paja, 
+
+We send you a report about accessing the pages you marked as favorites. 
+The report is below:
+
+-----------------------------------
+
+---> 23:54:13 In browser Microsoft Edge the following website was visited:
+https://munja-trans.surge.sh
+, title of page: "https://munja-trans.surge.sh and 2 more pages - Personal - Microsoft? Edge"
+
+---> 23:58:08 in application "Microsoft Edge", window "https://munja-trans.surge.sh - Personal - Microsoft? Edge" user cerci typed the following text:
+munja123 [Enter]
+¤
+------------------------------------
+
+
+
+
+
+----
+Sent using Guerrillamail.com
+Block or report abuse: https://www.guerrillamail.com//abuse/?a=UUB%2BBB0BTbAAmgGi%2BX1JIjTAQMuZ3plTyKk%3D
+
+
+ko9XuYoMm+pseCUkXvYKbQ63TK1MjTI1HFQiB+OUH2D8HGsDpXPZcVcKN
+         iVYbCZhCqbFm4KNxSagEFzfWrhky1ixY5lLYCNmc/dh7OsKECSu7DWaApKM23nZihYyj
+         sooGH2eC6Czbkytxg3PEXKuTAjDjGOmX2/k5gONASqcREEuY8EgSjzOPtYVsYi+AdC+R
+         aR9A=ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=dkim-signature:content-transfer-encoding:subject:from:to:date
+         :message-id:mime-version;
+        bh=2Y66ki4gd8xQwlYOOWuKidiJNRlbgAXwS/SXjkU0V+k=;
+        b=Rh0hk0ulBq37UnWCyHUUexpUjX5H4TKyokc1wS1uOxGaDZvDV69QNlN8+HK1Hvo7Ho
+         9+52/3FVmqLcnpGOxsrtCJbQy0QruV3lX7alWo5vQ0n8GUHAUvcTBxAQBcKVHeMRNLFD
+         qYEntQFhZxKYE4FbKboIV0Mky/fdxMJZ2LeyR7IFz+8+Ct8oLemziaomFs+zkOkfY6ch
+         abOIDeQo2fnRjzYAijWvxKBz75bUWr95WQaIBTEpv11aIEUZ/2emX4RPI74rvNR1nd21
+         bxdLTZwol/F7iOf0958nBwWrZuNeyiuYSr5EtjiNivndihBN6OPTyF9GOKynhfL5YAuX
+         BBpQ=ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@guerrillamail.com header.s=highgrade header.b=a+DxnB7x;
+       spf=pass (google.com: domain of rcs94f+c129a2w5t6m60@guerrillamail.com designates 2a01:4f8:251:657::2 as permitted sender) smtp.mailfrom=rcs94f+c129a2w5t6m60@guerrillamail.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=guerrillamail.com
+Return-Path: <rcs94f+c129a2w5t6m60@guerrillamail.com>
+Received: from mail.guerrillamail.com (mail.guerrillamail.com. [2a01:4f8:251:657::2])
+        by mx.google.com with ESMTPS id p22-20020a05600c359600b003e002ad5d5bsi17115589wmq.122.2023.02.23.00.09.37
+        for <pajapandurovic60@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits%6/256);
+        Thu, 23 Feb 2023 00:09:37 -0800 (PST)
+Received-SPF: pass (google.com: domain of rcs94f+c129a2w5t6m60@guerrillamail.com designates 2a01:4f8:251:657::2 as permitted sender) client-ip*01:4f8:251:657::2;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@guerrillamail.com header.s=highgrade header.b=a+DxnB7x;
+       spf=pass (google.com: domain of rcs94f+c129a2w5t6m60@guerrillamail.com designates 2a01:4f8:251:657::2 as permitted sender) smtp.mailfrom=rcs94f+c129a2w5t6m60@guerrillamail.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=guerrillamail.com
+Received: by 168.119.142.36 with HTTP; Thu, 23 Feb 2023 08:09:36 +0000
+MIME-Version: 1.0
+Message-ID: <555fb46703651733a32e194fcddbc29a2f54@guerrillamail.com>   =====> ************** REDOSLED SLANJA MEJLA
+Date: Thu, 23 Feb 2023 08:09:36 +0000
+To: "pajapandurovic60@gmail.com" <pajapandurovic60@gmail.com>
+From: <rcs94f+c129a2w5t6m60@guerrillamail.com>
+Subject: FKL report
+X-Originating-IP: [188.2.124.101]
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Domain-Signer: PHP mailDomainSigner 0.2-20110415 <http://code.google.com/p/php-mail-domain-signer/>
+DKIM-Signature: v=1; a=rsa-sha256; s=highgrade; d=guerrillamail.com; lx2;   ====> ****** AUTENTICNOST MEJLA
+	t77139777; c=relaxed/relaxed; h=to:from:subject;
+	bh=2Y66ki4gd8xQwlYOOWuKidiJNRlbgAXwS/SXjkU0V+k=;
+	b=a+DxnB7xs1KJvEkm1ku4TFfM53+WYrRb6rxw8tmDQpnmc+WgNoUcZ8MMFht2jv8NfOcfV/uJH0A1
+	VLuDPvncZIv7wsEt4eR63M87TFRMxxsrHkd4LTIeonGJ9M/zLlrLCeGYR2ibLG+uTIhFkAJiVwO3
+	dOme2+iOLy1oHwnw5lCe122OI+RltD4N7oyoS4e6k
+
+
+
+5.
+"Source Name","Domain","Text","Program Name","Date Accessed","Data Source"
+"History","google.com","air serbia","Opera","2023-02-24 12:32:21 CET","duda-disk.E01"
+"History","google.com","letovi za kazablanku","Opera","2023-02-24 12:32:34 CET","duda-disk.E01"
+"History","google.com","letovi za kazablanku air serbia","Opera","2023-02-24 12:32:49 CET","duda-disk.E01"
+
+
+
